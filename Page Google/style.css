@@ -1,0 +1,203 @@
+html 
+{
+    height: 100%;
+}
+
+body 
+{
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body 
+{
+    position: relative;
+
+}
+footer 
+{
+    position: absolute; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.border-flex
+{
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    align-items: center;
+}
+
+.menu
+{
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.menu-text
+{
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+
+.Gmail
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Images
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.app
+{
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.log
+{
+    width: auto;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.google
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}   
+
+.google-middle
+{
+    width: auto;
+    height: 92px;
+}
+
+.google-bar
+{
+    margin-top: 20px;
+}
+
+.bar
+{
+    width: 414px;
+    height: 34px;
+}
+
+.google-button
+{
+    margin-top: 15px;
+}
+
+.search
+{
+    margin-right: 5px;
+}
+
+.chance
+{
+    margin-left: 5px;
+}
+
+footer
+{
+    display: flex;
+    flex-direction: row;
+    background-color: #F2F2F2;
+    font-family: arial, sans-serif;
+}
+
+.bottom2
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.left
+{
+    display: flex;
+    justify-content: flex-start
+}
+
+.right
+{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pub
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+.entr
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.prop
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.comm
+{
+    padding-left: 20px;
+    padding-right: 300px;
+}
+
+.info
+{
+    padding-left: 400px;
+    padding-right: 20px;
+}
+
+.confi
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.condi
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.para
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.France
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a:link
+{
+    text-decoration: none;
+}
